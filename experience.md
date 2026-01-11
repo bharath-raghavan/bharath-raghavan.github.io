@@ -9,12 +9,12 @@ I have a diverse work/education experience, having been involved with institutio
 </div>
 
 <p align="center">
-<img src="../images/Experience.jpg"  width="70%" height="47%">
+<img src="{{ '/images/Experience.jpg' | relative_url }}"  width="70%" height="47%">
 </p>
 
 ---
 
-<img src="../images/ornl.png"  width="30%" height="15%"/>\
+<img src="{{ '/images/ornl.png' | relative_url }}"  width="30%" height="15%"/>\
 \
 **Postdoctoral Research Associate**\
 **Duration:** Nov 2024 – Current\
@@ -23,7 +23,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/rwth.png"  width="40%" height="22%"/>\
+<img src="{{ '/images/rwth.png' | relative_url }}"  width="40%" height="22%"/>\
 \
 **Doctor rerum naturalium (Dr. rer. nat.) in Physics**\
 **Duration:** Oct 2020 – Aug 2024\
@@ -33,7 +33,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/fzj.png"  width="30%" height="15%"/>\
+<img src="{{ '/images/fzj.png' | relative_url }}"  width="30%" height="15%"/>\
 \
 **Doctoral Student**\
 **Duration:** Feb 2020 – Feb 2024\
@@ -43,7 +43,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/cmu.png"  width="28%" height="14%"/>\
+<img src="{{ '/images/cmu.png' | relative_url }}"  width="28%" height="14%"/>\
 \
 **Master of Science (MS) in Colloids, Polymers and Surfaces**\
 **Duration:** Aug 2018 – Dec 2019\
@@ -54,7 +54,7 @@ I have a diverse work/education experience, having been involved with institutio
 ---
 
 
-<img src="../images/ril.png"  width="25%" height="12%"/>\
+<img src="{{ '/images/ril.png' | relative_url }}"  width="25%" height="12%"/>\
 \
 **Graduate Engineering Trainee**\
 **Duration:** July 2017 – May 2018\
@@ -63,7 +63,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/hri.png"  width="40%" height="20%"/>\
+<img src="{{ '/images/hri.png' | relative_url }}"  width="40%" height="20%"/>\
 \
 **Visiting Student in Physics**\
 **Duration:** May – June 2018\
@@ -73,7 +73,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/rv.png"  width="16%" height="8%"/>\
+<img src="{{ '/images/rv.png' | relative_url }}"  width="16%" height="8%"/>\
 \
 **Bachelor of Engineering (B.E.) in Chemical Engineering**\
 **Duration:** Aug 2013 – April 2017\

@@ -11,7 +11,7 @@ I am involved in research activities dealing with quantum chemistry, machine/dee
 ## Software for Highly-Scalable Biochemistry
 
 <p align="center">
-  <img src="../images/Research1.jpg" width="90%" height="65%"/>
+  <img src="{{ '/images/Research1.jpg' | relative_url }}" width="90%" height="65%"/>
 </p>
 
 <div style="text-align: justify">
@@ -28,7 +28,7 @@ I was involved in early efforts to couple MiMiC-QM/MM simulations with machine l
 ## High-Performance Computing & Quantum Chemistry Against Glioma
 
 <p align="center">
-  <img src="../images/Research2.jpg" width="90%" height="65%"/>
+  <img src="{{ '/images/Research2.jpg' | relative_url }}" width="90%" height="65%"/>
 </p>
 
 <div style="text-align: justify">
