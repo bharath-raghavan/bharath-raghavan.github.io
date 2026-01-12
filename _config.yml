@@ -1,12 +1,9 @@
-title: Dr. Bharath Raghavan
-email: raghavanb@ornl.gov
+title: Dr. rer. nat. Bharath Raghavan
+logo: /images/profile.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   Expert in Artifical Intelligence and Quantum Computing for Next Generation Drug Design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.bharathraghavan.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  bharath-raghavan
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-minimal

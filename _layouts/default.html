@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p class="view">Postdoctoral Research Assciate<br>Oak Ridge National Laboratory</a></p>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
+        <a href=""mailto:&#118;&#098;&#102;&#064;&#111;&#114;&#110;&#108;&#046;&#103;&#111;&#118;"><img src="images/icons/mail.jpg" width="45" height="40"></a>
+        <a href="https://www.linkedin.com/in/braghava/"><img src="images/icons/linkedin.png" width="40" height="40"></a>
+        <a href="{{ site.github.owner_url }}"><img src="images/icons/github.png" width="40" height="40"></a>
+        <a href="https://gitlab.com/bharurn"><img src="images/icons/gitlab.png" width="40" height="40"></a>
+        <a href="https://scholar.google.com/citations?user=nqi44wUAAAAJ&hl=en"><img src="images/icons/scholar.png" width="40" height="40"></a>
+        <a href="https://orcid.org/0000-0003-0186-2625"><img src="images/icons/orcid.png" width="40" height="40"></a>
+        
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>&#169; 2026 Dr. rer. nat. Bharath Raghavan.</p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
