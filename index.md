@@ -22,11 +22,11 @@ Contact me if you wish to collaborate on these exciting ideas!
 <br>
 <br>
 # My Experience
-<img src="{{ '[/images/ornl.png](https://avatars.githubusercontent.com/u/132701861?s=280&v=4)' }}"  width="30%" height="15%"/>\
+<img src="{{ '/images/tq.png' }}"  width="30%" height="15%"/>\
 \
 **Scientist**\
 **Duration:** March 2026 – Current\
-**Location:** Oak Ridge, United States of America\
+**Location:** Munich (München), Germany\
 **Work:** Combining AI and quantum methods within the TQChem software for faster drug design
 
 ---
@@ -50,7 +50,7 @@ Contact me if you wish to collaborate on these exciting ideas!
 
 ---
 
-<img src="{{ '/images/ril.png' | relative_url }}"  width="25%" height="12%"/>\
+<img src="{{ '/images/ril.png' | relative_url }}"  width="25%" height="14%"/>\
 \
 **Graduate Engineering Trainee**\
 **Duration:** July 2017 – May 2018\
