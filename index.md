@@ -95,5 +95,5 @@ Contact me if you wish to collaborate on these exciting ideas!
 **Bachelor of Engineering (B.E.) in Chemical Engineering**\
 **Duration:** Aug 2013 – April 2017\
 **Location:** Bengaluru, India\
-**Advisor:** [Dr. Tribikram Gupta](https://www.rvce.edu.in/ph-faculty-tg)\
+**Advisor:** [Dr. Tribikram Gupta](https://rvce.edu.in/department/physics/dr_tribikram_gupta/)\
 **Thesis:** Molecular Dynamics of H<sub>2</sub>/CH<sub>4</sub> Gas Permeation in Nanoporous Graphene
